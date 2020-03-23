@@ -3,6 +3,8 @@
 Linked Lists are containers of data that live on the heap. They are different than arrays in that they do not have indexes. There are two types of linked lists: singly and doubly. 
 This challenge is for a singly linked list, which means the list only moves in one direction.
 
+## References:
+[Linked Lists from Code401](https://github.com/codefellows/seattle-dotnet-401d10/tree/master/Class05/demo)
 ## Challenge Summary:
 A Node class is created with the properties for the value stored in the Node and a pointer to the next Node.
 
